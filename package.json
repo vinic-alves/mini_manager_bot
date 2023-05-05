@@ -1,0 +1,17 @@
+{
+  "name": "mydiscordbot",
+  "version": "1.0.0",
+  "description": "\"Bot de Discord\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "\"Vinicius Alves\"",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.10.2"
+  },
+  "devDependencies": {
+    "eslint": "^8.40.0"
+  }
+}
